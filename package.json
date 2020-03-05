@@ -1,12 +1,12 @@
 {
-  "name": "material-colors",
-  "appDisplayName": "Material Colors",
-  "productName": "Material Colors",
-  "appBundleId": "net.nurik.roman.materialcolors",
+  "name": "ceres-palette",
+  "appDisplayName": "Ceres Palette",
+  "productName": "Ceres Palette",
+  "appBundleId": "com.agrista.ceres.palette",
   "version": "2.0.1",
-  "description": "A quick color palette for material design colors.",
+  "description": "A quick color palette for ceres design colors built on Open Color.",
   "main": "main.js",
-  "author": "Roman Nurik",
+  "author": "Agrista",
   "private": true,
   "scripts": {
     "start": "gulp",

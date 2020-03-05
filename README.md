@@ -1,6 +1,6 @@
-# Material Colors for Mac
+# Ceres Colors for Mac
 
-A handy little Mac app that gives you quick access to the standard material design color palette.
+A handy little Mac app that gives you quick access to the Ceres design color palette.
 
 <img src="https://cdn.dribbble.com/users/6295/screenshots/2594885/colors_2x.png" width="320" alt="Screenshot">
 
