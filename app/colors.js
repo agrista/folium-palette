@@ -81,12 +81,12 @@ module.exports = {
         'text': {hex: '#583C35'},
     },
     'brown': {
-        'lighter': {hex: '#F6F0FD'},
-        'light': {hex: '#E3D0FF'},
-        'default': {hex: '#9C6ADE'},
-        'dark': {hex: '#50248F'},
-        'darker': {hex: '#230051'},
-        'text': {hex: '#50495A'},
+        'lighter': {hex: '#FAF4EB'},
+        'light': {hex: '#D3B79E'},
+        'default': {hex: '#5E3A21'},
+        'dark': {hex: '#442612'},
+        'darker': {hex: '#371E0F'},
+        'text': {hex: '#2E231C'},
     },
 
 }
