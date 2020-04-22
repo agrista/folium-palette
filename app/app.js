@@ -200,8 +200,8 @@ class MaterialColors {
           .appendTo(this.$sidebar);
 
       let keyColor = this.isDarkMode
-          ? color._selectorDark || color['5'].hex
-          : color._selectorLight || color['7'].hex;
+          ? color._selectorDark || color['light'].hex
+          : color._selectorLight || color['default'].hex;
 
       let $hueIcon = $('<div>')
           .addClass(this.CLASS_NAMES.hueIcon)
