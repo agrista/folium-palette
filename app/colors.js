@@ -83,10 +83,10 @@ module.exports = {
     'brown': {
         'lighter': {hex: '#FAF4EB'},
         'light': {hex: '#D3B79E'},
-        'default': {hex: '#5E3A21'},
-        'dark': {hex: '#442612'},
+        'default': {hex: '#825B3A'},
+        'dark': {hex: '#5E3A21'},
         'darker': {hex: '#371E0F'},
-        'text': {hex: '#2E231C'},
+        'text': {hex: '#2E221C'},
     },
 
 }
