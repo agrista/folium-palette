@@ -6,9 +6,9 @@ module.exports = {
 
     'sky': {
         'lighter': {hex: '#F9FAFB'},
-        'light': {hex: '#edf2f7'},
-        'default': {hex: '#e2e8f0'},
-        'dark': {hex: '#cbd5e0'},
+        'light': {hex: '#F4F6F8'},
+        'default': {hex: '#DFE3E8'},
+        'dark': {hex: '#C4CDD5'},
     },
     'ink': {
         'lightest': {hex: '#919EAB'},
@@ -51,7 +51,7 @@ module.exports = {
     'green': {
         'lighter': {hex: '#E3F1DF'},
         'light': {hex: '#BBE5B3'},
-        'default': {hex: '#BBE5B3'},
+        'default': {hex: '#50B83C'},
         'dark': {hex: '#108043'},
         'darker': {hex: '#173630'},
         'text': {hex: '#414F3E'},
