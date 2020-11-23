@@ -14,13 +14,13 @@ If you want to customize the app for your own needs, you can do a custom build.
 2. Clone the repository and in the root directory, run:
 
    ```shell
-   npm install
+   yarn
    ```
 
 3. To run the app:
 
    ```shell
-   npm start
+   yarn start
    ```
 
 Note that you'll probably want to disable the auto-updating mechanism by emptying out the `checkForUpdates` method in
