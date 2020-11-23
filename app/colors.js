@@ -1,0 +1,92 @@
+module.exports = {
+    /*
+        'black': {hex: '#000'},
+        'white': {hex: '#fff'},
+    */
+
+    'sky': {
+        'lighter': {hex: '#F9FAFB'},
+        'light': {hex: '#F4F6F8'},
+        'default': {hex: '#DFE3E8'},
+        'dark': {hex: '#C4CDD5'},
+    },
+    'ink': {
+        'lightest': {hex: '#919EAB'},
+        'lighter': {hex: '#637381'},
+        'light': {hex: '#454F5B'},
+        'default': {hex: '#212B36'},
+    },
+    'purple': {
+        'lighter': {hex: '#F6F0FD'},
+        'light': {hex: '#E3D0FF'},
+        'default': {hex: '#9C6ADE'},
+        'dark': {hex: '#50248F'},
+        'darker': {hex: '#230051'},
+        'text': {hex: '#50495A'},
+    },
+    'indigo': {
+        'lighter': {hex: '#F4F5FA'},
+        'light': {hex: '#B3BCF5'},
+        'default': {hex: '#5C6AC4'},
+        'dark': {hex: '#202E78'},
+        'darker': {hex: '#000639'},
+        'text': {hex: '#3E4155'},
+    },
+    'blue': {
+        'lighter': {hex: '#EBF5FA'},
+        'light': {hex: '#B4E1FA'},
+        'default': {hex: '#006FBB'},
+        'dark': {hex: '#006FBB'},
+        'darker': {hex: '#001429'},
+        'text': {hex: '#3E4E57'},
+    },
+    'teal': {
+        'lighter': {hex: '#E0F5F5'},
+        'light': {hex: '#B7ECEC'},
+        'default': {hex: '#47C1BF'},
+        'dark': {hex: '#00848E'},
+        'darker': {hex: '#003135'},
+        'text': {hex: '#405352'},
+    },
+    'green': {
+        'lighter': {hex: '#E3F1DF'},
+        'light': {hex: '#BBE5B3'},
+        'default': {hex: '#50B83C'},
+        'dark': {hex: '#108043'},
+        'darker': {hex: '#173630'},
+        'text': {hex: '#414F3E'},
+    },
+    'yellow': {
+        'lighter': {hex: '#FCF1CD'},
+        'light': {hex: '#FFEA8A'},
+        'default': {hex: '#EEC200'},
+        'dark': {hex: '#8A6116'},
+        'darker': {hex: '#573B00'},
+        'text': {hex: '#595130'},
+    },
+    'orange': {
+        'lighter': {hex: '#FCEBDB'},
+        'light': {hex: '#FFC58B'},
+        'default': {hex: '#F49342'},
+        'dark': {hex: '#C05717'},
+        'darker': {hex: '#4A1504'},
+        'text': {hex: '#594430'},
+    },
+    'red': {
+        'lighter': {hex: '#FBEAE5'},
+        'light': {hex: '#FEAD9A'},
+        'default': {hex: '#DE3618'},
+        'dark': {hex: '#BF0711'},
+        'darker': {hex: '#330101'},
+        'text': {hex: '#583C35'},
+    },
+    'brown': {
+        'lighter': {hex: '#FAF4EB'},
+        'light': {hex: '#D3B79E'},
+        'default': {hex: '#825B3A'},
+        'dark': {hex: '#5E3A21'},
+        'darker': {hex: '#371E0F'},
+        'text': {hex: '#2E221C'},
+    },
+
+}
