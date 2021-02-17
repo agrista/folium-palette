@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92b3b342-df5d-4500-a7b1-b4b81a1d27dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/colors.tailwind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colors.uber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwindConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +75,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -191,7 +198,14 @@
       <workItem from="1585995199946" duration="650000" />
       <workItem from="1587537682200" duration="936000" />
       <workItem from="1587538628502" duration="522000" />
-      <workItem from="1606112176753" duration="1551000" />
+      <workItem from="1606112176753" duration="2718000" />
+      <workItem from="1606127698660" duration="2794000" />
+      <workItem from="1606200489713" duration="174000" />
+      <workItem from="1606749923890" duration="1359000" />
+      <workItem from="1606997330565" duration="515000" />
+      <workItem from="1612165428851" duration="2000" />
+      <workItem from="1613140421258" duration="2247000" />
+      <workItem from="1613401808643" duration="667000" />
     </task>
     <servers />
   </component>
@@ -209,34 +223,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="963" height="263" key="GridCell.Tab.0.bottom" timestamp="1606112158171">
-      <screen x="1680" y="-58" width="1920" height="1003" />
-    </state>
-    <state width="963" height="263" key="GridCell.Tab.0.bottom/1680.-58.1920.1003/0.25.1680.1025@1680.-58.1920.1003" timestamp="1606112158171" />
-    <state width="963" height="263" key="GridCell.Tab.0.center" timestamp="1606112158170">
-      <screen x="1680" y="-58" width="1920" height="1003" />
-    </state>
-    <state width="963" height="263" key="GridCell.Tab.0.center/1680.-58.1920.1003/0.25.1680.1025@1680.-58.1920.1003" timestamp="1606112158170" />
-    <state width="963" height="263" key="GridCell.Tab.0.left" timestamp="1606112158169">
-      <screen x="1680" y="-58" width="1920" height="1003" />
-    </state>
-    <state width="963" height="263" key="GridCell.Tab.0.left/1680.-58.1920.1003/0.25.1680.1025@1680.-58.1920.1003" timestamp="1606112158169" />
-    <state width="963" height="263" key="GridCell.Tab.0.right" timestamp="1606112158170">
-      <screen x="1680" y="-58" width="1920" height="1003" />
-    </state>
-    <state width="963" height="263" key="GridCell.Tab.0.right/1680.-58.1920.1003/0.25.1680.1025@1680.-58.1920.1003" timestamp="1606112158170" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/app/app.js</url>
-          <line>52</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
