@@ -20,8 +20,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92b3b342-df5d-4500-a7b1-b4b81a1d27dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/colors.polaris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/make-mac-zip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/config-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/color-formatting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/search-util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/shared.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sidebar.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/RobotoMono18.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.main.additions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.renderer.additions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.materialcolorsapp.json" beforeDir="false" afterPath="$PROJECT_DIR$/.materialcolorsapp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/app.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/Roboto400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/Roboto500.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/RobotoMono400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/RobotoMono500.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/TrayIconTemplate.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/TrayIconTemplate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/TrayIconTemplate@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/TrayIconTemplate@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/standard-menus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/standard-menus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/themes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/themes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/util.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/util.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +75,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="cfac20c9-6f82-4f4c-af4c-0c5406dd6c8e" />
   <component name="ProjectId" id="1Q2wTWbyimHfZ2AdhYsTGqPVZ1C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,8 +108,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -98,8 +136,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="npm.build" />
       <item itemvalue="npm.start" />
+      <item itemvalue="npm.build" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -193,18 +231,7 @@
       <workItem from="1585995199946" duration="650000" />
       <workItem from="1587537682200" duration="936000" />
       <workItem from="1587538628502" duration="522000" />
-      <workItem from="1606112176753" duration="2718000" />
-      <workItem from="1606127698660" duration="2794000" />
-      <workItem from="1606200489713" duration="174000" />
-      <workItem from="1606749923890" duration="1359000" />
-      <workItem from="1606997330565" duration="515000" />
-      <workItem from="1612165428851" duration="2000" />
-      <workItem from="1613140421258" duration="2247000" />
-      <workItem from="1613401808643" duration="667000" />
-      <workItem from="1613562819519" duration="584000" />
-      <workItem from="1613833948034" duration="1165000" />
-      <workItem from="1613981164555" duration="231000" />
-      <workItem from="1614146689233" duration="619000" />
+      <workItem from="1622724029230" duration="628000" />
     </task>
     <servers />
   </component>
